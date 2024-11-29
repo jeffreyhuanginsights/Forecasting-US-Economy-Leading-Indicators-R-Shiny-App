@@ -7,7 +7,9 @@ The problem is, GDP is yesterday's news (a lagging indicator). Traders need to u
 
 They are important because of the GDP equation:
 GDP = C + I + G + (X - M)
+
 C is consumer spending (like groceries) (related to housing starts)
+
 I is investment (like a factory) (tracked by business confidence)
 
 The app uses these statistical techniques: ETS Forecast, Arima Forecast, TBATS Forecast, Holt-Winters Forecast, TSLM Forecast, Timeseries Decomposition, Timeseries Plot, Average (arima, ets, tbats, hw, tslm) Forecasts.
