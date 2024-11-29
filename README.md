@@ -35,6 +35,7 @@ Actual is the actual published indicator value. Surv(M) is to the left of it, me
 
 ### 3. Housing Starts
 https://fred.stlouisfed.org/series/HOUST
+
 If a builder builds a house, it means they are confident that consumers are confident enough to assume a 30 year mortgage.
 When someone buys a house, they don't just buy the construction, they buy the furniture, housing appliances, landscaping, tools, and all kinds of products so they can make the house livable.
 This is why the nominal impact of 3% of housing starts is a gross underestimate.
