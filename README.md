@@ -1,4 +1,4 @@
-# Forecasting-US-Economy-Leading-Indicators-R-Shiny-App
+# Forecasting US Economy Leading Indicators with R Shiny App
 ## Purpose
 This app uses a variety of statistical models to forecast leading indicators that will affect the US economy, allowing a user of the app to make predictions. For example, traders may use the app to predict the economy.
 
